@@ -25,7 +25,7 @@ The analysis reveals clear evidence of COVID-19’s short-term economic disrupti
 Urban regions consistently showed higher unemployment rates than rural ones.
 The project concludes with data-driven policy recommendations emphasizing rural employment support, skill enhancement, and real-time labour data tracking.
 
-# 📌Project Overview
+# 📌Project Insights:
 <img width="1364" height="2635" alt="image" src="https://github.com/user-attachments/assets/73ad3e87-a39a-40c9-94ab-ed4b0224d0fc" />
 <img width="1149" height="3159" alt="image" src="https://github.com/user-attachments/assets/48516745-e26f-4da6-8891-29f4e96cfa35" />
 
